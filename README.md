@@ -8,10 +8,10 @@
   <a href="https://bytesoftware.net">
     <img src="https://img.shields.io/badge/Byte%20Software-Website-purple?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="YOUR_DISCORD_INVITE_HERE">
+  <a href="https://discord.gg/bytesoftware">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:d.ahles@bytesoftware.net">
+  <a href="mailto:byt3c0de@bytesoftware.net">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
   </a>
 </p>
