@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <strong>Byt3c0de</strong></h1>
+<h1 align="center">Hi, I'm <strong>Byte CBT</strong></h1>
 <p align="center">Software Developer building scalable web services, automation tools, and developer-focused utilities.</p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://bytesoftware.net">
     <img src="https://img.shields.io/badge/Byte%20Software-Website-purple?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://discord.gg/bytesoftware">
+  <a href="https://discord.gg/CC4Tgft5w7">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:byt3c0de@bytesoftware.net">
@@ -56,7 +56,7 @@ Built a collaborative platform allowing developers to host, share, and reuse scr
 ---
 
 ## Education
-**MBO Rijnland**  
+**mboRijnland**  
 Software Development (Level 4)  
 2025 - Present
 
@@ -66,6 +66,6 @@ Software Development (Level 4)
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byt3c0de-net&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byt3c0de-net&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byte-cbt&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-cbt&layout=compact&theme=tokyonight" height="160" />
 </p>
