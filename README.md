@@ -21,11 +21,11 @@ Results-driven developer with a focus on automation and scripting systems. Dedic
 
 ## Professional Experience
 
-### Byte Software
+### Byte Softworks
 **Founder & Lead Developer** | 2025 - Present
 * Architected and currently maintaining an open-source ecosystem providing high-performance developer tools and automation utilities.
 * Managed the full development lifecycle for various scripting resources and system utilities.
-* **Website:** [bytesoftware.net](https://bytesoftware.net)
+* **Website:** [bytesoftworks.dev](https://bytesoftworks.dev)
 
 ### Watchlist
 **Founder & Lead Developer** | 2025 - Present
@@ -36,6 +36,4 @@ Results-driven developer with a focus on automation and scripting systems. Dedic
 ---
 
 ## Contact & Links
-* **Portfolio:** [byt3c0de.net](https://byt3c0de.net)
-* **Email:** N/A
 * **Discord:** [Join Community Server](https://discord.gg/CC4Tgft5w7)
